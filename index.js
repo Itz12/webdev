@@ -68,5 +68,9 @@ function fightDragon() {
   }*/
 
 
+array[1,2,4,5,]
+  array.forEach(element => {
+    man=3
 
-  
+  });
+  array()
